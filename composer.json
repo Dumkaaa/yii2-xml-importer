@@ -1,0 +1,19 @@
+{
+    "name": "dumkaaa/yii2-xml-importer",
+    "type": "yii2-extension",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Victor Demin",
+            "email": "demin@trabeja.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dumkaaa\\xmlimporter\\": ""
+        }
+    }
+}
