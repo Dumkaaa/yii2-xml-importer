@@ -15,5 +15,11 @@
         "psr-4": {
             "dumkaaa\\xmlimporter\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dumkaaa/yii2-xml-importer"
+        }
+    ]
 }
